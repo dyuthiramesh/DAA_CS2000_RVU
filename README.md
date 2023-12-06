@@ -53,3 +53,7 @@ Upon completing this course, you will have achieved the following learning outco
 School of Computer Science & Engineering  
 B.Tech(H) Program  
 Semester 3  
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdyuthiramesh%2FDAA_CS2000_RVU&labelColor=%23697689&countColor=%23ffa500)](https://github.com/dyuthiramesh/DAA_CS2000_RVU)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
