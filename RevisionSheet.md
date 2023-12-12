@@ -17,5 +17,5 @@
 | Dijkstra's algorithm        | Find the Single Source Shortest Paths   | Best: O((V + E) log V), Worst: O((V + E) log V) | O(V + E)                               |
 | Floyd-Warshall's algorithm   | Find All Pairs Shortest Paths           | O(V<sup>3</sup>)                                  | O(V<sup>2</sup>)                                  |
 | Heap Sort                  | Sort a list using a heap                | Best: O(n log n), Average: O(n log n), Worst: O(n log n) | O(1)                                   |
-| Travelling Salesperson Problem | Find the shortest possible route that visits each city exactly once and returns to the original city | NP-hard, no known polynomial-time solution | O(n!) (brute force) or O(n<sup>2</sup> * 2<sup>n</sup>) (dynamic programming) |
+| Travelling Salesperson Problem | Find the shortest possible route that visits each city exactly once and returns to the original city | O(n!) (brute force) or O(n<sup>2</sup> * 2<sup>n</sup>) (dynamic programming) | O((n-1) * 2<sup>(n-2)</sup>) |
 | The Knapsack Problem        | Optimize the selection of items with maximum total value without exceeding a given weight | NP-hard, various approaches             | O(n * W)                                |
