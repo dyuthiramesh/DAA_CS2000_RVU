@@ -122,11 +122,12 @@ How many subproblems are possible?
 
 ### Recurrence relation
 ```
-\[ KS(i, W) = \max \{ p_i + KS(i-1, W - w_i), \ KS(i-1, W) \}, \quad w_i \leq W \]
-
-\[ KS(i-1, W) ; \quad w_i > W \]
-
-\[ 0 ; \quad i=0 \ \text{or} \ W=0 \]
+\[ KS(i, W) = \begin{cases} 
+      \max \{ p_i + KS(i-1, W - w_i), \ KS(i-1, W) \} & \text{if } w_i \leq W \\
+      KS(i-1, W) & \text{if } w_i > W \\
+      0 & \text{if } i=0 \ \text{or} \ W=0
+   \end{cases}
+\]
 ```
 ### Example
 

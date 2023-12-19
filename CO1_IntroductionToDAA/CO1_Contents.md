@@ -11,7 +11,6 @@ Algorithms can be represented in various forms, including unambiguity, clarity, 
 ## Historical Perspective
 
 - **Muhammad ibn Musa al-Khwarizmi** – A 9th-century mathematician.
-  [More information](https://www.lib.virginia.edu/science/parshall/khwariz.html)
 
 - **Euclid’s Algorithm** – Used to find the Greatest Common Divisor (GCD) of two numbers.
 
